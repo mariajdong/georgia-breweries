@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: 'Analysis of Georgia Breweries & Location'
+description: 'Forked from my group project in a data analytics bootcamp with Georgia Tech analyzing brewery locations and potential relationships with nearby demographics. Data pulled from Google Maps and the U.S. Census.'
