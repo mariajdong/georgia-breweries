@@ -9,11 +9,14 @@ Please access the summary of findings [here](https://mariajdong.github.io/georgi
 This project explores brewery types and prevalence in Georgia, and their potential relationship with population demographics.
 
 ### Resources
-The following is a list of tools and resources used to complete the analysis:
-* OpenBreweryDB for brewery location data;
-* Matplotlib for visualizations;
-* Google Maps API to pull location data of colleges near zip codes of breweries;
-* U.S. Census API to pull age demographics of zip codes of breweries.
+**Tools & languages:** Python, Jupyter Notebook
+
+**Libraries:** NumPy, SciPy, Pandas, Matplotlib
+
+**Datasets:**
+* [OpenBreweryDB](https://www.openbrewerydb.org/) for brewery location data
+* [Google Maps API](https://developers.google.com/maps/documentation) for mapping and pulling locations of breweries & colleges
+* [U.S. Census API](https://www.census.gov/data/developers.html)
 
 ### Execution
 To run the code/analysis yourself, please open `main_notebook.ipynb` in Jupyter Notebook or another compatible application.<br>
@@ -23,4 +26,5 @@ Also be sure to create 2 files:
 
 ### Future Considerations
 New population data analyses to be added to index/README (but available in notebook).<br>
-May narrow "nearby colleges" to only major colleges in Georgia with a pre-defined threshold of student population size.
+May narrow "nearby colleges" to only major colleges in Georgia with a pre-defined threshold of student population size.<br>
+Creating more complex visualizations with libraries such as amCharts. 
